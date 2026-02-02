@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Notes Portal</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="container">
+        <header> 
+            <h1> NITA ExamBank </h1>
+            <h4> (Your one-stop hub for all the PYQs you need to score smarter) </h4>
+            <p> Select your branch, semester, and subject to access the Previous Year Question Papers </p>
+        </header>
+
+        <div class="controls">
+
+            <div class="control-group">
+                <label for="branchSelect">Branch:</label>
+                <select id="branchSelect">
+                    <option value="">Select Your Branch</option>
+                    <option value="CSE"> Computer Science and Engineering </option>
+                    <option value="ECE"> Electronics and Communication Engineering </option>
+                    <option value="EIE"> Electronics and Instrumentation Engineering </option>
+                    <option value="EE"> Electrical Engineering </option>
+                    <option value="CE"> Civil Engineering </option>
+                    <option value="ME"> Mechanical Engineering </option>
+                    <option value="CH"> Chemcial Engineering </option>
+                    <option value="PE"> Production Engineering </option>
+                    <option value="BE"> Bio Engineering </option>
+                </select>
+            </div>
+
+            <div class="control-group"> 
+                <label for="semesterSelect">Semester:</label>       
+                <select id="semesterSelect">
+                    <option value="">Select Your Semester</option>
+                    <option value="1">1st</option>
+                    <option value="2">2nd</option>
+                    <option value="3">3rd</option>
+                    <option value="4">4th</option>
+                    <option value="5">5th</option>
+                    <option value="6">6th</option>
+                    <option value="7">7th</option>
+                    <option value="8">8th</option>
+                </select>
+            </div>
+
+            <div class="control-group">
+                <label for="subjectSelect">Subject:</label>
+                <select id="subjectSelect">
+                    <option value="">-- Select Subject --</option>
+                </select>
+            </div>
+        </div>
+        <div id="tableContainer">
+
+        </div>
+    </div>
+<script src="notes-data.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

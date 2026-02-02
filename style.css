@@ -1,0 +1,181 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-image: url(background.jpeg);
+    background-size: cover;
+    background-color: #f4f4f9;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    /* Reduced top padding for mobile, usually looks better */
+    padding-top: 20px; 
+    min-height: 100vh; /* Ensures background covers full height */
+}
+
+/* Main Container */
+.container {
+    background: white;
+    opacity: 0.95;
+    width: 90%;
+    max-width: 1000px;
+    padding: 30px 50px 30px 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    /* Ensure container doesn't overflow horizontally */
+    margin-bottom: 20px; 
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+    color:#e74c3c;
+    font-size: clamp(0.8rem, 4vw, 1.2rem); 
+
+}
+
+header h1 {
+    color: #00274f;
+    margin-bottom: 5px;
+    /* slightly responsive font size */
+    font-size: clamp(2rem, 4vw, 2.5rem); 
+}
+
+header p {
+    margin-top:15px;
+    color: #4b4b4b;
+    font-size: clamp(1rem, 4vw, 1.3rem); 
+}
+
+/* Dropdowns*/
+.controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-bottom: 30px;
+    justify-content: center;
+}
+
+.control-group {
+    display: flex;
+    flex-direction: column;
+    /* Flex-grow ensures they share space equally */
+    flex: 1 1 200px; 
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #2c3e50;
+}
+
+select {
+    padding: 12px; /* Increased padding for better touch target */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #fff;
+    cursor: pointer;
+    width: 100%; /* Ensures it fills the group */
+}
+
+select:focus {
+    outline: none;
+    border-color: #3498db;
+}
+
+/* Table Styling */
+#tableContainer {
+    width: 100%;
+    border: 1px solid #eee; /*Visual cue that this is a container */
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+.notes-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 0; /* Removed top margin to fit container better */
+    min-width: 600px; /* Forces scroll on small screens so text doesn't crush */
+}
+
+.notes-table th, .notes-table td {
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    white-space: nowrap; /* Prevents awkward text wrapping */
+}
+
+.notes-table th {
+    background-color: #3498db;
+    color: white;
+    font-weight: 600;
+}
+
+.notes-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Download Button Styling */
+.download-btn {
+    display: inline-block;
+    padding: 10px 20px; /* Larger touch area */
+    background-color: #27ae60;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 14px;
+    transition: background 0.3s;
+}
+
+.download-btn:hover {
+    background-color: #219150;
+}
+
+.not-available {
+    color: #e74c3c;
+    font-style: italic;
+    font-size: 14px;
+}
+
+/* --- MOBILE RESPONSIVE MEDIA QUERIES --- */
+@media screen and (max-width: 600px) {
+    
+    body {
+        padding-top: 10px;
+    }
+
+    .container {
+        width: 95%; /* Use more screen width */
+        padding: 15px; /* Reduce internal padding to save space */
+    }
+
+    .controls {
+        gap: 15px;
+        flex-direction: column; /* Force stack on mobile */
+    }
+
+    .control-group {
+        width: 100%; /* Full width for easy tapping */
+        flex: auto;
+    }
+
+    /* Adjust Table for mobile */
+    .notes-table th, .notes-table td {
+        padding: 10px 5px; /* Tighter padding */
+        font-size: 14px; /* Slightly smaller text */
+    }
+
+    /* Make the button full width and easier to tap */
+    .download-btn {
+        display: block;
+        width: 100%;
+        text-align: center;
+        padding: 12px;
+        margin-top: 5px;
+    }
+}
