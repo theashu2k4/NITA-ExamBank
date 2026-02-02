@@ -143,39 +143,57 @@ select:focus {
 }
 
 /* --- MOBILE RESPONSIVE MEDIA QUERIES --- */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
     
     body {
         padding-top: 10px;
+        background-image: url(background_mobile.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 100vh;
     }
 
     .container {
-        width: 95%; /* Use more screen width */
-        padding: 15px; /* Reduce internal padding to save space */
+        width: 95%;
+        padding: 15px;
+        opacity: 0.94;
     }
 
     .controls {
         gap: 15px;
-        flex-direction: column; /* Force stack on mobile */
+        flex-direction: column;
     }
 
     .control-group {
-        width: 100%; /* Full width for easy tapping */
+        width: 100%;
         flex: auto;
     }
 
-    /* Adjust Table for mobile */
-    .notes-table th, .notes-table td {
-        padding: 10px 5px; /* Tighter padding */
-        font-size: 14px; /* Slightly smaller text */
+    /* Fit table by making buttons narrower */
+    .notes-table {
+        min-width: 100%;
     }
 
-    /* Make the button full width and easier to tap */
+    .notes-table th, .notes-table td {
+        padding: 10px 5px;
+    }
+
+    .notes-table th:first-child,
+    .notes-table td:first-child {
+        width: 70px; /* Year column */
+    }
+
     .download-btn {
-        display: block;
-        width: 100%;
-        text-align: center;
-        padding: 12px;
-        margin-top: 5px;
+        padding: 8px 4px; /* Narrower padding */
+        font-size: 0px; /* Smaller button text only */
+        display: inline-block;
+        width: auto;
+    }
+
+    .download-btn::before {
+        content: "Download"; /* Show only "Download" */
+        font-size: 14px;
+        padding:8px 4px;
     }
 }
