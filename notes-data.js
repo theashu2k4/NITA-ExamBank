@@ -332,7 +332,7 @@ const notesData = {
         "Sensors and Transducers": {
             "2025": { "Mid Term": "#", "End Term": "#" },
             "2024": { "Mid Term": "https://drive.google.com/open?id=1l---9l0AFz-WRiMa_Y8WCy72o6ysOWPL&usp=drive_fs", "End Term": "https://drive.google.com/open?id=1Ed6XmcNpOE54wB1_Lh_QUqAvVoYsimnK&usp=drive_fs" },
-            "2023": { "Mid Term": "hhttps://drive.google.com/open?id=1w7cYD6R5wSU82jrpdF1nSCTGWtk9jPja&usp=drive_fs", "End Term": "#" }
+            "2023": { "Mid Term": "https://drive.google.com/open?id=1w7cYD6R5wSU82jrpdF1nSCTGWtk9jPja&usp=drive_fs", "End Term": "#" }
         },
          "ElectroMagnetic Theory": {
             "2025": { "Mid Term": "#", "End Term": "#" },
@@ -723,3 +723,4 @@ const notesData = {
         }
     }
 };
+
