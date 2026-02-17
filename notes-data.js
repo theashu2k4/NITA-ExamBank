@@ -335,7 +335,7 @@ const notesData = {
             "2023": { "Mid Term": "https://drive.google.com/open?id=1w7cYD6R5wSU82jrpdF1nSCTGWtk9jPja&usp=drive_fs", "End Term": "#" }
         },
          "ElectroMagnetic Theory": {
-            "2025": { "Mid Term": "#", "End Term": "#" },
+            "2025": { "Mid Term": "https://drive.google.com/open?id=1AwLsJ-8txAzIRF-CvWn0PrTPfLQYLWw8&usp=drive_fs", "End Term": "https://drive.google.com/open?id=1j-uvVgCUDkAV3w6E5uGtqePtwQK4LQJS&usp=drive_fs" },
             "2024": { "Mid Term": "https://drive.google.com/open?id=18fKQ6m3G28sS1zeKURnRtX19RHGJwfMQ&usp=drive_fs", "End Term": "#" },
             "2023": { "Mid Term": "https://drive.google.com/open?id=1PScgiks4X8ragRScr4A1H9vFVw4JrPPL&usp=drive_fs", "End Term": "#" }
         },
@@ -723,4 +723,5 @@ const notesData = {
         }
     }
 };
+
 
