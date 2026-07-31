@@ -394,22 +394,27 @@ const notesData = {
         "Electronic Instrumentation": {
             "2025": { "Mid Term": "#", "End Term": "#" },
             "2024": { "Mid Term": "#", "End Term": "#" },
-            "2023": { "Mid Term": "#", "End Term": "#" }
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1_7PGovVkGEpBmVZa4wOCahmj91js0jjW/view?usp=sharing" }
         },
         "Linear Control System": {
             "2025": { "Mid Term": "#", "End Term": "#" },
             "2024": { "Mid Term": "#", "End Term": "#" },
-            "2023": { "Mid Term": "#", "End Term": "#" }
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1fEdk3G6k_hMbonaBOQu0Ltjh4K3SYTqD/view?usp=sharing" }
         },
         "Microprocessor and Microcontroller": {
             "2025": { "Mid Term": "#", "End Term": "#" },
             "2024": { "Mid Term": "#", "End Term": "#" },
-            "2023": { "Mid Term": "#", "End Term": "#" }
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1ZdwouVCNbxTMv-H1OZRWRMLZznlbn0SQ/view?usp=sharing" }
         },
         "Industrial Instrumentation": {
             "2025": { "Mid Term": "#", "End Term": "#" },
             "2024": { "Mid Term": "#", "End Term": "#" },
-            "2023": { "Mid Term": "#", "End Term": "#" }
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1paLNwFQHwxHM9Pk7Enkjr8dhQL3LvR4E/view?usp=sharing" }
+        },
+         "BioMedical Instrumentation": {
+            "2025": { "Mid Term": "#", "End Term": "#" },
+            "2024": { "Mid Term": "#", "End Term": "#" },
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1xalqFLwiW75rcWQ8TtR8R4gAPKlMxbNP/view?usp=sharing" }
         },
         "Object Oriented Programming": {
             "2025": { "Mid Term": "#", "End Term": "#" },
@@ -421,24 +426,73 @@ const notesData = {
         "Process Control": {
             "2025": { "Mid Term": "#", "End Term": "#" },
             "2024": { "Mid Term": "#", "End Term": "#" },
-            "2023": { "Mid Term": "#", "End Term": "#" }
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1UnBBCfsUnmk7oxkmkOikeJZ4ABV90Aci/view?usp=sharing" }
+        },
+        "Embedded System": {
+            "2025": { "Mid Term": "#", "End Term": "#" },
+            "2024": { "Mid Term": "#", "End Term": "#" },
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1TBDurAagxJsOV-0UkOqPVmTCHC7mZCWs/view?usp=sharing" }
         },
         "Data Communication and Networking": {
             "2025": { "Mid Term": "#", "End Term": "#" },
             "2024": { "Mid Term": "#", "End Term": "#" },
-            "2023": { "Mid Term": "#", "End Term": "#" }
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1vWnMLUN4Ha_OPNqcLzHeD_r_MasyukUx/view?usp=sharing" }
         },
         "Industrial Electronics": {
             "2025": { "Mid Term": "#", "End Term": "#" },
             "2024": { "Mid Term": "#", "End Term": "#" },
-            "2023": { "Mid Term": "#", "End Term": "#" }
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1PKAZeWOwVZbvuvk9_zZkZtnhcR8Nsqi-/view?usp=sharing" }
         },
         "Communication Theory and Telemetry": {
+            "2025": { "Mid Term": "#", "End Term": "#" },
+            "2024": { "Mid Term": "#", "End Term": "#" },
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1-TKjF8XZhFA-E0IsQ5HZtcUG9jWIOxwA/view?usp=sharing" }
+        }
+    },
+    "7": {
+        "Industrial Process Control and Automation": {
+            "2025": { "Mid Term": "#", "End Term": "#" },
+            "2024": { "Mid Term": "#", "End Term": "#" },
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1wOxTiMqfb4EN5X4gVX8xWY5b2NAKjZVN/view?usp=sharing" }
+        },
+        "Optoelectronic Instrumentation": {
+            "2025": { "Mid Term": "#", "End Term": "#" },
+            "2024": { "Mid Term": "#", "End Term": "#" },
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1P1OxzWftbrOXTu20N9v7eqNYFF1ecHIn/view?usp=sharing" }
+        },
+        "Digital Signal Processing": {
+            "2025": { "Mid Term": "#", "End Term": "#" },
+            "2024": { "Mid Term": "#", "End Term": "#" },
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1N4YieiNqcOCgFCoCvGUsGLujHey6rUbS/view?usp=sharing" }
+        },
+        "Departmental Elective 4": {
             "2025": { "Mid Term": "#", "End Term": "#" },
             "2024": { "Mid Term": "#", "End Term": "#" },
             "2023": { "Mid Term": "#", "End Term": "#" }
         }
     },
+    "8": {
+        "Neural Network and fuzzy logic": {
+            "2025": { "Mid Term": "#", "End Term": "#" },
+            "2024": { "Mid Term": "#", "End Term": "#" },
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1Qg11pb7xnt78LpjePBlkJdrHnOFbLwlf/view?usp=sharing" }
+        },
+        "Non-Linear Control": {
+            "2025": { "Mid Term": "#", "End Term": "#" },
+            "2024": { "Mid Term": "#", "End Term": "#" },
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1SOqUYTsbSximrPoNIUDdbMUsH-enoy7i/view?usp=sharing" }
+        },
+        "Robotics and Automation": {
+            "2025": { "Mid Term": "#", "End Term": "#" },
+            "2024": { "Mid Term": "#", "End Term": "#" },
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1Pr1d94ievHZAfeGQKwJetYV-3lVczBKz/view?usp=sharing" }
+        },
+        "VLSI Design": {
+            "2025": { "Mid Term": "#", "End Term": "#" },
+            "2024": { "Mid Term": "#", "End Term": "#" },
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1XDoEESCgeaFRy_ryGQ51-PGogtkFNkYD/view?usp=sharing" }
+        }
+    }
 },
 "EE": {
     "3": {
