@@ -470,9 +470,9 @@ const notesData = {
             "2025": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1w_CGZvE2OyV24E4VLMcYeuljzqkdqAXB/view?usp=drivesdk" },
         },
         "Digital Signal Processing": {
-            "2025": { "Mid Term": "https://drive.google.com/file/d/1YxTxqaQj-3nrRU0F4HbpKMBXqEc6wubb/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1rDROByvO1ORegGjY80IyQiRvAYGZKc-p/view?usp=drivesdk" },
+            "2025": { "Mid Term": "https://drive.google.com/file/d/1H0ZtEp-gGFTdQzG6mc9IbaIW2pmf2YLv/view?usp=drive_link", "End Term": "https://drive.google.com/file/d/1Jt7l5MOJC3Vbar2YBD4iEFngxhPUDLTj/view?usp=drive_link" },
             "2024": { "Mid Term": "https://drive.google.com/file/d/1YxTxqaQj-3nrRU0F4HbpKMBXqEc6wubb/view?usp=drive_link", "End Term": "https://drive.google.com/file/d/1rDROByvO1ORegGjY80IyQiRvAYGZKc-p/view?usp=drive_link" },
-            "2023": { "Mid Term": "https://drive.google.com/file/d/1YxTxqaQj-3nrRU0F4HbpKMBXqEc6wubb/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1rDROByvO1ORegGjY80IyQiRvAYGZKc-p/view?usp=drivesdk" },
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1N4YieiNqcOCgFCoCvGUsGLujHey6rUbS/view?usp=drive_link" },
         },
         "Industrial Process Control and Automation": {
             "2025": { "Mid Term": "https://drive.google.com/file/d/1LVeGhLh0trrKS0so_NaWSy9CnsoAZ0tz/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1_kDmxfcEcnEevViWVujJfxktTukwAaNT/view?usp=drivesdk" },
