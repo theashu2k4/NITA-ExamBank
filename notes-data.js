@@ -262,12 +262,19 @@ const notesData = {
     },
     "5": {
         "Digital Communication": {
-            "2025": { "Mid Term": "#", "End Term": "#" },
+            // mapped from files titled "Analog and Digital Communication" (UEC05B23) — confirm this is the right slot
+            "2025": {
+                "Mid Term": "https://drive.google.com/file/d/13CR2AiQm0JiXI-ioox2UJJkz75mx6DS3/view?usp=drivesdk",
+                "End Term": "https://drive.google.com/file/d/1yYqab9rlcGXVOZrtlRhcS3ICqF2aN03c/view?usp=drivesdk"
+            },
             "2024": { "Mid Term": "#", "End Term": "#" },
             "2023": { "Mid Term": "https://drive.google.com/open?id=1sEYjw6Y7NdfhbvvV1Bo5BRC2tzBeEsmF&usp=drive_fs", "End Term": "https://drive.google.com/open?id=11EWua__LvbHcha1iPQ2bBMR-JWbi40pr&usp=drive_fs" }
         },
         "Microprocessors & Microcontrollers": {
-            "2025": { "Mid Term": "#", "End Term": "#" },
+            "2025": {
+                "Mid Term": "https://drive.google.com/file/d/11UgypL2SFYG3EBOl7QHFcFBepT47OfwY/view?usp=drivesdk",
+                "End Term": "https://drive.google.com/file/d/1Ndx9LtaLtKTSo9w3G6jS0odtNOT1TjMa/view?usp=drivesdk"
+            },
             "2024": { "Mid Term": "#", "End Term": "#" },
             "2023": { "Mid Term": "https://drive.google.com/open?id=11yumQeK8iORbVsOPZe_pU-GfJjKecoNX&usp=drive_fs", "End Term": "https://drive.google.com/open?id=1lZQN5FL_G6V-5rUUJPt7-QK_9d2VEhjU&usp=drive_fs" }
         },
@@ -277,36 +284,47 @@ const notesData = {
             "2023": { "Mid Term": "#", "End Term": "#" }
         },
         "Digital Signal Processing": {
-            "2025": { "Mid Term": "#", "End Term": "#" },
+            "2025": {
+                "Mid Term": "https://drive.google.com/file/d/1H0ZtEp-gGFTdQzG6mc9IbaIW2pmf2YLv/view?usp=drivesdk",
+                "End Term": "https://drive.google.com/file/d/1Jt7l5MOJC3Vbar2YBD4iEFngxhPUDLTj/view?usp=drivesdk"
+            },
             "2024": { "Mid Term": "#", "End Term": "#" },
             "2023": { "Mid Term": "https://drive.google.com/open?id=1gk4UAWhjb9Ul8jXo9YHddPbSiBTl3_qu&usp=drive_fs", "End Term": "https://drive.google.com/open?id=1mDgcW6qJdkGzF4fWLgZInyRGc5ORXR2q&usp=drive_fs" }
         },
         "Electronic Measurements and Instrumentation": {
-            "2025": { "Mid Term": "#", "End Term": "#" },
+            "2025": {
+                "Mid Term": "https://drive.google.com/file/d/1n9JCdgrOld8RJnSpETkwoqAa8xZ3Wvqh/view?usp=drivesdk",
+                "End Term": "https://drive.google.com/file/d/1fZsR7q1rt4IGVztntjF8VtCn1dVGEB_3/view?usp=drivesdk"
+            },
             "2024": { "Mid Term": "#", "End Term": "#" },
             "2023": { "Mid Term": "https://drive.google.com/open?id=1T2oMNrosM1u-8WoNe5OjRnOsV-fZQIEC&usp=drive_fs", "End Term": "https://drive.google.com/open?id=1li4c7VOqryVnMU1woWQ8Uh6cugTY31jV&usp=drive_fs" }
         },
         "Industrial Management": {
-            "2025": { "Mid Term": "#", "End Term": "#" },
+            "2025": {
+                "Mid Term": "https://drive.google.com/file/d/1DI77yDrCzI4_T5w1ukfi8TsWAUpUCY_o/view?usp=drivesdk",
+                "End Term": "https://drive.google.com/file/d/11pvjEtvHVSVKz9hDAMXJiUMbfC-hNGDo/view?usp=drivesdk"
+            },
             "2024": { "Mid Term": "#", "End Term": "#" },
             "2023": { "Mid Term": "https://drive.google.com/open?id=1dMs2yxpwed0AasRrvdKPF6PAxRCYO9nb&usp=drive_fs", "End Term": "https://drive.google.com/open?id=1pUxCMCRWtfEe1RhusLClUF4vNVLlqzoE&usp=drive_fs" }
         }
     },
     "6": {
         "RF and Microwave Engineering": {
+            // mapped from file titled "Microwave Engineering" (UEC06B26) — confirm this is the right slot
             "2025": { "Mid Term": "#", "End Term": "#" },
             "2024": { "Mid Term": "https://drive.google.com/open?id=1ns4FL9s2yvbfL6IQ4_Yg-D3Ti2uay8iM&usp=drive_fs", "End Term": "https://drive.google.com/open?id=1UmtoQ5KX6nrn5sm5SM80qnNsigQtlxuR&usp=drive_fs" },
-            "2023": { "Mid Term": "#", "End Term": "#" }
+            "2026": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1wXmOsEc4pNMYVzqyuv_EZiehU4-Vbgdh/view?usp=drivesdk" }
         },
         "Data Communication and Network": {
             "2025": { "Mid Term": "#", "End Term": "#" },
             "2024": { "Mid Term": "https://drive.google.com/open?id=16ftLtK6utNzMMkd-3a2Kyf6i9cFWI23B&usp=drive_fs", "End Term": "#" },
-            "2023": { "Mid Term": "#", "End Term": "#" }
+            "2026": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1Z4YK2HCiFEL8_J0P1by7tkkd0nsgjt71/view?usp=drivesdk" }
         },
         "VLSI Design": {
+            // mapped from file titled "VLSI Technology" (UEC06B28) — confirm this is the right slot
             "2025": { "Mid Term": "#", "End Term": "#" },
             "2024": { "Mid Term": "https://drive.google.com/open?id=1oHPvpY2PsDwIY0zzEG8_1CZW-dGCm10b&usp=drive_fs", "End Term": "https://drive.google.com/open?id=1_DQr9PqSae1MlLL_a0hDRDJ-fvohFwJF&usp=drive_fs" },
-            "2023": { "Mid Term": "#", "End Term": "#" }
+            "2026": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/188keLDSAKK1eT1fHriMKLyO9GfPLKO_u/view?usp=drivesdk" }
         },
         "Power Electronics": {
             "2025": { "Mid Term": "#", "End Term": "#" },
@@ -316,15 +334,15 @@ const notesData = {
         "Optical Fibre": {
             "2025": { "Mid Term": "#", "End Term": "#" },
             "2024": { "Mid Term": "https://drive.google.com/open?id=1M8K1MI2cMsXYqTdZtuj4Yr2_H-8neoZj&usp=drive_fs", "End Term": "https://drive.google.com/open?id=1eQAy_jTspR9qgtGw_1cU3G0649KP3R02&usp=drive_fs" },
-            "2023": { "Mid Term": "#", "End Term": "#" }
+            "2026": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1zvprZ8uDeCqGI7M2hOrGIpebDcM9TfDk/view?usp=drivesdk" }
         },
         "IT and Coding": {
             "2025": { "Mid Term": "#", "End Term": "#" },
-            "2024": { "Mid Term": "https://drive.google.com/open?id=1sHBYuJWdK6VLu_HHW8SLPGl9UVa6ooNW&usp=drive_fs#", "End Term": "https://drive.google.com/open?id=1RkprRhVK52E4cm56q6uFap4_BaYUeRQi&usp=drive_fs" },
-            "2023": { "Mid Term": "#", "End Term": "#" }
+            "2024": { "Mid Term": "https://drive.google.com/open?id=1sHBYuJWdK6VLu_HHW8SLPGl9UVa6ooNW&usp=drive_fs", "End Term": "https://drive.google.com/open?id=1RkprRhVK52E4cm56q6uFap4_BaYUeRQi&usp=drive_fs" },
+            "2026": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1UGK2NtKAFxlTmRxdmdBSBxQBVQkhfv5f/view?usp=drivesdk" }
         }
     }
-},
+}
     "EIE": {
     "3": {
         "Mathematics III (M-301)": {
