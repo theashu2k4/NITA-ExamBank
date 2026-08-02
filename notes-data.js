@@ -475,12 +475,12 @@ const notesData = {
             "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1N4YieiNqcOCgFCoCvGUsGLujHey6rUbS/view?usp=drive_link" },
         },
         "Industrial Process Control and Automation": {
-            "2025": { "Mid Term": "https://drive.google.com/file/d/1LVeGhLh0trrKS0so_NaWSy9CnsoAZ0tz/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1_kDmxfcEcnEevViWVujJfxktTukwAaNT/view?usp=drivesdk" },
-            "2024": { "Mid Term": "https://drive.google.com/file/d/1_kDmxfcEcnEevViWVujJfxktTukwAaNT/view?usp=drive_link", "End Term": "https://drive.google.com/file/d/1_kDmxfcEcnEevViWVujJfxktTukwAaNT/view?usp=drivesdk" },
+            "2025": { "Mid Term": "https://drive.google.com/file/d/1LVeGhLh0trrKS0so_NaWSy9CnsoAZ0tz/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1S_9jDP7pfK2YAxIOtaNps8PD4FhagU8A/view?usp=drive_link" },
+            "2024": { "Mid Term": "https://drive.google.com/file/d/1LVeGhLh0trrKS0so_NaWSy9CnsoAZ0tz/view?usp=drive_link", "End Term": "https://drive.google.com/file/d/1_kDmxfcEcnEevViWVujJfxktTukwAaNT/view?usp=drivesdk" },
             "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1wOxTiMqfb4EN5X4gVX8xWY5b2NAKjZVN/view?usp=drive_link" },
         },
         "Optoelectronic Instrumentation": {
-            "2025": { "Mid Term": "https://drive.google.com/file/d/1PEHB1IDF-g6CcWSLhxTlB2xjJfGmIIkw/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1PAH-095ZSyfxzZBCuY31oyW1uPNhZzpo/view?usp=drivesdk" },
+            "2025": { "Mid Term": "https://drive.google.com/file/d/1PEHB1IDF-g6CcWSLhxTlB2xjJfGmIIkw/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1sZbhwVP-TZOQ6BcPQ0Gf4SjptPyojDhJ/view?usp=drive_link" },
             "2024": { "Mid Term": "https://drive.google.com/file/d/1PEHB1IDF-g6CcWSLhxTlB2xjJfGmIIkw/view?usp=drive_link", "End Term": "https://drive.google.com/file/d/1PAH-095ZSyfxzZBCuY31oyW1uPNhZzpo/view?usp=drive_link" },
             "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1P1OxzWftbrOXTu20N9v7eqNYFF1ecHIn/view?usp=drive_link" },
         },
