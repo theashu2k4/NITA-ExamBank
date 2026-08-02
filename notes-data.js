@@ -342,7 +342,7 @@ const notesData = {
             "2026": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1UGK2NtKAFxlTmRxdmdBSBxQBVQkhfv5f/view?usp=drivesdk" }
         }
     }
-}
+},
     "EIE": {
     "3": {
         "Mathematics III (M-301)": {
