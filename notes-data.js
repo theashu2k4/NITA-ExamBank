@@ -468,7 +468,7 @@ const notesData = {
         "Optoelectronic Instrumentation": {
             "2025": { "Mid Term": "https://drive.google.com/file/d/1PEHB1IDF-g6CcWSLhxTlB2xjJfGmIIkw/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1PAH-095ZSyfxzZBCuY31oyW1uPNhZzpo/view?usp=drivesdk" },
         },
-    }
+    },
     "8": {
         "Neural Network and fuzzy logic": {
             "2025": { "Mid Term": "#", "End Term": "#" },
