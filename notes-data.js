@@ -410,8 +410,8 @@ const notesData = {
     },
     "5": {
         "Electronic Instrumentation": {
-            "2025": { "Mid Term": "#", "End Term": "#" },
-            "2024": { "Mid Term": "#", "End Term": "#" },
+            "2025": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1ujJrAzsvVwgvj5KgO8ckRnqM2zi5SQ2S/view?usp=drive_link" },
+            "2024": { "Mid Term": "https://drive.google.com/file/d/1WhCNCK8jVN-CU3Hd0SSYY1ARbPUTm6Yk/view?usp=drive_link", "End Term": "https://drive.google.com/file/d/1hCmCbSOzFV11-BnAMCfPrh86OL2-KfH7/view?usp=drive_link" },
             "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1_7PGovVkGEpBmVZa4wOCahmj91js0jjW/view?usp=sharing" }
         },
         "Linear Control System": {
@@ -424,8 +424,8 @@ const notesData = {
             "2024": { "Mid Term": "https://drive.google.com/file/d/1_hzFoiJoqb6V9SDxW5FfP6Ow_hIRjkEH/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1U4evrluoG_2fgRGBAclSYtIVj8IcLzU1/view?usp=drivesdk" },
         },
         "Industrial Instrumentation": {
-            "2025": { "Mid Term": "#", "End Term": "#" },
-            "2024": { "Mid Term": "#", "End Term": "#" },
+            "2025": { "Mid Term": "https://drive.google.com/file/d/1v5SHzQLwTbTcR_mRIAx04dGuHuBP-T32/view?usp=drive_link", "End Term": "https://drive.google.com/file/d/1m73dvzDj2hUsH4f0-KgPoe7h1iRrt0NZ/view?usp=drive_link" },
+            "2024": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1NqJ-rcNu0p61c51nN_gifihCg6yn4oe0/view?usp=drive_link" },
             "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1paLNwFQHwxHM9Pk7Enkjr8dhQL3LvR4E/view?usp=sharing" }
         },
          "BioMedical Instrumentation": {
@@ -438,35 +438,51 @@ const notesData = {
     "6": {
         "Communication Theory and Telemetry": {
             "2026": { "Mid Term": "https://drive.google.com/file/d/1l1rqle59Gtz0GWfOF35CQLOy070fLmvg/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/19Ui9hUzAbePcrcg0ANpE-fqdNbhYNHwo/view?usp=drivesdk" },
+            "2024": { "Mid Term": "https://drive.google.com/file/d/1RdSpBtBUuDv5-c_ovaSRUzYCKGCQiAFq/view?usp=drive_link", "End Term": "https://drive.google.com/file/d/1U06dm_0_Z07IuKzp8Nkn_NIkJAdhjqmZ/view?usp=drive_link" },
         },
         "Data Communication and Networking": {
             "2026": { "Mid Term": "https://drive.google.com/file/d/1OQonmHYz-_b-CxTZwcWKXISwlHl0VZqP/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1Yq6tyFFy3vzqHzqTKV4zLK_RL7l2rVgU/view?usp=drivesdk" },
+            "2024": { "Mid Term": "https://drive.google.com/file/d/19SGMfUdVjfIctrzOwEZfAveHoY-Imjgw/view?usp=drive_link", "End Term": "https://drive.google.com/file/d/1Y7xgUSvcP-zv9Mrn_n0MW3p58BuhpSpn/view?usp=drive_link" },
         },
         "Embedded System": {
             "2026": { "Mid Term": "https://drive.google.com/file/d/1sBZ6NvTAhseISBsVpPrdIk7d5xHX1SjI/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1Ij1E40-JDdv9bY2L_d6Yv7Jt_Ag1CUsP/view?usp=drivesdk" },
+            "2024": { "Mid Term": "https://drive.google.com/file/d/12FhBuX0BYH-2lcTCOZbiC4hYH7XP5zRV/view?usp=drive_link", "End Term": "https://drive.google.com/file/d/1fnB2UYj3epKzRyeM6XOVX-5NhmHuatIf/view?usp=drive_link" },
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1TBDurAagxJsOV-0UkOqPVmTCHC7mZCWs/view?usp=drive_link" },
         },
         "Industrial Electronics": {
             "2026": { "Mid Term": "https://drive.google.com/file/d/1kDAeo_UXO33i-O_Oasf7FhcmJVTr286V/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/10OUa8eL2h_ainJ8zigL4S5fvJYWbRo1P/view?usp=drivesdk" },
+            "2024": { "Mid Term": "https://drive.google.com/file/d/1tEQyc-8Mgx_oRhM7pbMIIbO6kjP-BqU2/view?usp=drive_link", "End Term": "https://drive.google.com/file/d/11tuEkdcIuF8pTNxXFkycOZB1QORgfSOc/view?usp=drive_link" },
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1PKAZeWOwVZbvuvk9_zZkZtnhcR8Nsqi-/view?usp=drive_link" },
         },
         "Process Control": {
             "2026": { "Mid Term": "https://drive.google.com/file/d/11LaqdrIraFyIoHhFl7z4CiCTnXgwJGZQ/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1oo3NaU4giCrL39hCT2e9N1qNEuobuXrY/view?usp=drivesdk" },
+            "2024": { "Mid Term": "https://drive.google.com/file/d/1h1egJU7jR9K-knMvD3SlBEEdx9kNBGEM/view?usp=drive_link", "End Term": "https://drive.google.com/file/d/1uwiGZsR_PHcOtOpNRTPdX-s37zp5v3Yk/view?usp=drive_link" },
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1UnBBCfsUnmk7oxkmkOikeJZ4ABV90Aci/view?usp=drive_link" },
         },
     },
     "7": {
         "Analytical Instrumentation": {
-            "2025": { "Mid Term": "https://drive.google.com/file/d/1YRR_2nBL_T9UKlpJRoRlEi1qzgqRNQpj/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1YkV1WbspxoPkYBT3PLgtGmZjrCrFQZvX/view?usp=drivesdk" },
+            "2025": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1lSNWYQq0rrj7XI_4fq8EWH7-kV1qCfiq/view?usp=drive_link" },
+            "2024": { "Mid Term": "https://drive.google.com/file/d/1YRR_2nBL_T9UKlpJRoRlEi1qzgqRNQpj/view?usp=drive_link", "End Term": "https://drive.google.com/file/d/1YkV1WbspxoPkYBT3PLgtGmZjrCrFQZvX/view?usp=drive_link" },
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1TRYptG5Slz3VddbAUeZRtFVAhvyfLhS7/view?usp=drive_link" },
         },
         "Digital Image Processing": {
             "2025": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1w_CGZvE2OyV24E4VLMcYeuljzqkdqAXB/view?usp=drivesdk" },
         },
         "Digital Signal Processing": {
             "2025": { "Mid Term": "https://drive.google.com/file/d/1YxTxqaQj-3nrRU0F4HbpKMBXqEc6wubb/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1rDROByvO1ORegGjY80IyQiRvAYGZKc-p/view?usp=drivesdk" },
+            "2024": { "Mid Term": "https://drive.google.com/file/d/1YxTxqaQj-3nrRU0F4HbpKMBXqEc6wubb/view?usp=drive_link", "End Term": "https://drive.google.com/file/d/1rDROByvO1ORegGjY80IyQiRvAYGZKc-p/view?usp=drive_link" },
+            "2023": { "Mid Term": "https://drive.google.com/file/d/1YxTxqaQj-3nrRU0F4HbpKMBXqEc6wubb/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1rDROByvO1ORegGjY80IyQiRvAYGZKc-p/view?usp=drivesdk" },
         },
         "Industrial Process Control and Automation": {
             "2025": { "Mid Term": "https://drive.google.com/file/d/1LVeGhLh0trrKS0so_NaWSy9CnsoAZ0tz/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1_kDmxfcEcnEevViWVujJfxktTukwAaNT/view?usp=drivesdk" },
+            "2024": { "Mid Term": "https://drive.google.com/file/d/1_kDmxfcEcnEevViWVujJfxktTukwAaNT/view?usp=drive_link", "End Term": "https://drive.google.com/file/d/1_kDmxfcEcnEevViWVujJfxktTukwAaNT/view?usp=drivesdk" },
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1wOxTiMqfb4EN5X4gVX8xWY5b2NAKjZVN/view?usp=drive_link" },
         },
         "Optoelectronic Instrumentation": {
             "2025": { "Mid Term": "https://drive.google.com/file/d/1PEHB1IDF-g6CcWSLhxTlB2xjJfGmIIkw/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1PAH-095ZSyfxzZBCuY31oyW1uPNhZzpo/view?usp=drivesdk" },
+            "2024": { "Mid Term": "https://drive.google.com/file/d/1PEHB1IDF-g6CcWSLhxTlB2xjJfGmIIkw/view?usp=drive_link", "End Term": "https://drive.google.com/file/d/1PAH-095ZSyfxzZBCuY31oyW1uPNhZzpo/view?usp=drive_link" },
+            "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1P1OxzWftbrOXTu20N9v7eqNYFF1ecHIn/view?usp=drive_link" },
         },
     },
     "8": {
