@@ -408,7 +408,6 @@ const notesData = {
             "2023": { "Mid Term": "https://drive.google.com/open?id=1MzL1RelZXjB9dXFGWmG0fao0sRq_VDzA&usp=drive_fs", "End Term": "https://drive.google.com/open?id=162IlDB02Bc1IvmQ62MET1nad8fg4zu89&usp=drive_fs" }
         }
     },
-    {
     "5": {
         "Electronic Instrumentation": {
             "2025": { "Mid Term": "https://drive.google.com/file/d/1t3K6vxS3H_WEoe3f1S9OsVMH4mycR44H/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1ujJrAzsvVwgvj5KgO8ckRnqM2zi5SQ2S/view?usp=drive_link" },
@@ -497,7 +496,6 @@ const notesData = {
             "2025": { "Mid Term": "https://drive.google.com/file/d/18O2v-DfFDE1q-ZL_k0TDZJjgtkKPHQs3/view?usp=drivesdk", "End Term": "#" },
         },
     },
-}
     "8": {
         "Neural Network and fuzzy logic": {
             "2025": { "Mid Term": "#", "End Term": "#" },
