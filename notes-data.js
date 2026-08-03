@@ -441,7 +441,7 @@ const notesData = {
         },
         "Process Modeling and Simulation": {
             "2025": { "Mid Term": "https://drive.google.com/file/d/1JhlxFFFec2HEm3LQerdOCeC1Loh0KEmr/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/19gWH_GuNpMZCQvcDPnu_eblEzcY_GHWF/view?usp=drivesdk" },
-        },
+        }
     },
     "6": {
         "Communication Theory and Telemetry": {
@@ -466,7 +466,7 @@ const notesData = {
             "2026": { "Mid Term": "https://drive.google.com/file/d/11LaqdrIraFyIoHhFl7z4CiCTnXgwJGZQ/view?usp=drivesdk", "End Term": "https://drive.google.com/file/d/1oo3NaU4giCrL39hCT2e9N1qNEuobuXrY/view?usp=drivesdk" },
             "2024": { "Mid Term": "https://drive.google.com/file/d/1h1egJU7jR9K-knMvD3SlBEEdx9kNBGEM/view?usp=drive_link", "End Term": "https://drive.google.com/file/d/1uwiGZsR_PHcOtOpNRTPdX-s37zp5v3Yk/view?usp=drive_link" },
             "2023": { "Mid Term": "#", "End Term": "https://drive.google.com/file/d/1UnBBCfsUnmk7oxkmkOikeJZ4ABV90Aci/view?usp=drive_link" },
-        },
+        }
     },
     "7": {
         "Analytical Instrumentation": {
@@ -494,7 +494,7 @@ const notesData = {
         },
         "Virtual Instrument Design": {
             "2025": { "Mid Term": "https://drive.google.com/file/d/18O2v-DfFDE1q-ZL_k0TDZJjgtkKPHQs3/view?usp=drivesdk", "End Term": "#" },
-        },
+        }
     },
     "8": {
         "Neural Network and fuzzy logic": {
